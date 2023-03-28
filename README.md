@@ -1,16 +1,21 @@
-### Hi there 👋
+# **What I do:**
 
-<!--
-**cop6567/cop6567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mainly create automations and advanced bots with AI and data analysis to overcome any task. Mostly in Discord and Web Scraping. As well as messing around with APIs and creating highly funtional multipurpose applications.
 
-Here are some ideas to get you started:
+# **My Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/flask/flask-original.svg" alt="Flask" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/apple/apple-original.svg" alt="Apple" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" alt="GitHub" width="90" height="90">
+
+  
+</p>
+
