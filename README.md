@@ -1,10 +1,11 @@
+<link rel="stylesheet" type="text/css" href=""https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/style.css"">
+
 # **What I do:**
 
 I mainly create automations and advanced bots with AI and data analysis to overcome any task. Mostly in Discord and Web Scraping. As well as messing around with APIs and creating highly funtional multipurpose applications.
 
 # **The Tools i use and my Tech Stack:**
 
-<link rel="stylesheet" type="text/css" href="style.css">
 <div class='bg-color'>
   <p align="center">
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="90" height="90">
