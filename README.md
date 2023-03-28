@@ -15,6 +15,7 @@ I mainly create automations and advanced bots with AI and data analysis to overc
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="90" height="90">
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="90" height="90">
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" alt="GitHub" width="90" height="90">
+          
 
   
 </p>
