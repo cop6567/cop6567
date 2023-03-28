@@ -2,7 +2,7 @@
 
 I mainly create automations and advanced bots with AI and data analysis to overcome any task. Mostly in Discord and Web Scraping. As well as messing around with APIs and creating highly funtional multipurpose applications.
 
-# **My Tech Stack**
+# **The Tools i use and my Tech Stack**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="90" height="90">
