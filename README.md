@@ -5,7 +5,7 @@ I mainly create automations and advanced bots with AI and data analysis to overc
 # **The Tools i use and my Tech Stack:**
 
 <link rel="stylesheet" type="text/css" href="style.css">
-<div>
+<div class='bg-color'>
   <p align="center">
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="90" height="90">
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/flask/flask-original.svg" alt="Flask" width="90" height="90">
