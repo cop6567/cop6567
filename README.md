@@ -24,5 +24,3 @@ I mainly create automations and advanced bots with AI and data analysis to overc
   </p>
 </div>
 
-
-# Some of my favorite creations:
