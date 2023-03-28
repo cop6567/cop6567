@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href=""https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/style.css"">
 
 # **What I do:**
 
@@ -24,3 +23,6 @@ I mainly create automations and advanced bots with AI and data analysis to overc
 
   </p>
 </div>
+
+
+# Some of my favorite creations:
