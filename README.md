@@ -1,8 +1,4 @@
 
-<div style="width: 100%;">
-  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
 # **Hey There 👋**
 
 I am a developer who likes tinker with stuff, a lot. I mainly create automations and advanced bots with the superpower of AI and data analysis to overcome any task. Mostly in Discord and Web Scraping. I also as mess around with APIs and create highly funtional multipurpose applications. I always work on projects in my free time. 
@@ -30,4 +26,4 @@ I am a developer who likes tinker with stuff, a lot. I mainly create automations
 </div>
 
 
-![Languages: 4](https://img.shields.io/badge/Projects_in_the_works-2-green)
+![Projects: 2](https://img.shields.io/badge/Projects_in_the_works-2-green)
