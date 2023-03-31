@@ -1,9 +1,9 @@
 
-# **What I do:**
+# **Hey There 👋**
 
-I mainly create automations and advanced bots with AI and data analysis to overcome any task. Mostly in Discord and Web Scraping. As well as messing around with APIs and creating highly funtional multipurpose applications.
+I am a developer who likes tinker with stuff, a lot. I mainly create automations and advanced bots with the superpower of AI and data analysis to overcome any task. Mostly in Discord and Web Scraping. I also as mess around with APIs and create highly funtional multipurpose applications. I always work on projects in my free time. 
 
-# **The Tools I use and my Tech Stack:**
+**The Tools I use and my Tech Stack:**
 
 <div class='bg-color'>
   <p align="center">
@@ -20,6 +20,7 @@ I mainly create automations and advanced bots with AI and data analysis to overc
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>        
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="60" height="60">
+    
 
   </p>
 </div>
