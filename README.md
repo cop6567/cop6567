@@ -29,5 +29,8 @@ I am a developer who likes tinker with stuff, a lot. I mainly create automations
 </div>
 
 
-![Projects: 2](https://img.shields.io/badge/Projects_in_the_works-2-green)
+</p>
+
+https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cop6567&show_icons=true&theme=tokyonight) 
 
