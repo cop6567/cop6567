@@ -37,5 +37,6 @@ I am a developer who likes tinker with stuff, a lot. I mainly create automations
 
 # My Github Stats 📊:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cop6567&show_icons=true&theme=tokyonight) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cop6567&theme=tokyo-night)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cop6567&show_icons=true&theme=tokyonight)
 
