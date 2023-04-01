@@ -10,7 +10,9 @@ I am a developer who likes tinker with stuff, a lot. I mainly create automations
 [![My Playstation](https://custom-icon-badges.demolab.com/badge/-My%20Playstation-blue?style=for-the-badge&logo=playstation&logoColor=white)](www.playstation.com)
 [![My Reddit](https://custom-icon-badges.demolab.com/badge/-Find%20Me%20On%20Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Top-Replacement5233/)
 
-**The Tools I use and my Tech Stack:**
+<br><br>
+
+# **The Tools I use and my Tech Stack:**
 
 
 <div style="margin-bottom: 200px;">
@@ -37,6 +39,8 @@ I am a developer who likes tinker with stuff, a lot. I mainly create automations
 
 # My Github Stats 📊:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cop6567&theme=tokyo-night)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cop6567&theme=tokyo-night)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cop6567&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cop6567&theme=tokyonight)](https://git.io/streak-stats)
+<h6>psst! The profile looks cooler in dark mode!</h6>
 
