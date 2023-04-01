@@ -2,7 +2,7 @@
 
 # **About Me 👋:**
 
-I am a developer who likes tinker with stuff, a lot. I mainly create automations and advanced bots with the superpower of AI and data analysis to overcome any task. Mostly in Discord and Web Scraping. I also mess around with APIs and create highly funtional multipurpose applications. I always work on projects in my free time. 
+I am a developer who likes tinker with stuff, a lot. I mainly create automations and advanced bots with the superpower of AI and data analysis to overcome any task. Mostly in Discord and Web Scraping. I also mess around with APIs and create highly funtional multipurpose applications. I always work on projects in my free time and learn new technologies. 
 
 **The Tools I use and my Tech Stack:**
 
