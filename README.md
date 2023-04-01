@@ -30,3 +30,4 @@ I am a developer who likes tinker with stuff, a lot. I mainly create automations
 
 
 ![Projects: 2](https://img.shields.io/badge/Projects_in_the_works-2-green)
+
