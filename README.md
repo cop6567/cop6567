@@ -4,7 +4,7 @@
 
 **he/him**
  
-I am a developer who likes tinker with stuff, a lot. I mainly create automations and advanced bots with the superpower of AI and data analysis to overcome any task. Mostly in Discord and Web Scraping. I also mess around with APIs and create highly funtional multipurpose applications. I always work on projects in my free time and learn new technologies. 
+I am a developer who likes tinker with stuff, a lot. I mainly create automations and advanced bots with the superpower of AI and data analysis to overcome any task. Mostly in Discord and Web Scraping. I also mess around with APIs and create highly funtional multipurpose applications. I always work on projects in my free time and surround myself with new technologies. 
 
 [![My Discord](https://custom-icon-badges.demolab.com/badge/-Join%20The%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GDgZ9J26Mr)
 [![My Playstation](https://custom-icon-badges.demolab.com/badge/-My%20Playstation-blue?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/)
