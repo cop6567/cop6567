@@ -30,6 +30,7 @@ I am a developer who likes tinker with stuff, a lot. I mainly create automations
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>        
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="60" height="60">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60">
    
   </p>
 
