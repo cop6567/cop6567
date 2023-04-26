@@ -17,24 +17,24 @@ I am a developer who likes tinker with stuff, a lot. I mainly create automations
 
 <div style="margin-bottom: 200px;">
   <p align="center" style="margin-bottom: 70px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>        
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/apple/apple-original.svg" alt="Apple" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>        
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="60" height="60">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/flask/flask-original.svg" alt="Flask" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55">        
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/apple/apple-original.svg" alt="Apple" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="Git" width="50" height="55">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55">        
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="55" height="55">
    
   </p>
-
 </div>
+
 
 <br><br>
 
