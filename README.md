@@ -44,9 +44,8 @@ I am a developer who likes tinker with stuff, a lot. I mainly create automations
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cop6567&theme=tokyo-night)
 
-<h2>Streaks and Stats 🏅</h2>
+<h2>Streaks 🏅</h2>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cop6567&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cop6567&theme=tokyonight)](https://git.io/streak-stats)
 <h6>psst! The profile looks cooler in dark mode!</h6>
 
