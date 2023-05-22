@@ -9,6 +9,8 @@ I am a developer who likes tinker with stuff, a lot. I mainly create automations
 [![My Discord](https://custom-icon-badges.demolab.com/badge/-Join%20The%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GDgZ9J26Mr)
 [![My Playstation](https://custom-icon-badges.demolab.com/badge/-My%20Playstation-blue?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/)
 [![My Reddit](https://custom-icon-badges.demolab.com/badge/-Find%20Me%20On%20Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Top-Replacement5233/)
+[![My Twitter](https://custom-icon-badges.demolab.com/badge/-My%20Playstation-dark_blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.playstation.com/)
+
 
 <br><br>
 
