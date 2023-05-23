@@ -44,10 +44,6 @@ I mainly create automations and advanced bots with the superpower of AI and data
 
 # My Github Stats 📊:
 
-<h2>Contributions 🤝</h2>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cop6567&theme=tokyo-night)
-
 <h2>Streaks 🏅</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cop6567&theme=tokyonight)](https://git.io/streak-stats)
