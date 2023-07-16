@@ -35,6 +35,8 @@ I mainly create automations and advanced bots with the superpower of AI and data
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55">        
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="55" height="55">
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="55" height="55">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="55" height="55">
+     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android" width="55" height="55">
    
    
   </p>
